@@ -1,0 +1,5 @@
+.main-nav:after {
+    content: "\e902";
+    font-family: 'icomoon';
+    speak: none;
+}
