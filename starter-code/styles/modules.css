@@ -4,6 +4,14 @@
     speak: none;
 }
 
+@media screen and (min-width: 640px){
+    .main-nav:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+}
+
 .pull-right{
     display: 'block';
 }
@@ -12,4 +20,8 @@
     .pull-right{
         float: right;
     }
+}
+
+.byline {
+    display: flex;
 }
