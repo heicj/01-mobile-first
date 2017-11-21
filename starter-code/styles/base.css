@@ -2,3 +2,17 @@ a {
     color: grey;
     text-decoration: none;
 }
+
+
+li{
+    list-style-type: none;
+}
+
+img{
+    max-width: 100%;
+    height:auto;
+}
+
+.site-header{
+    background-color: hsla(56, 93%, 52%, 0.747);
+}
