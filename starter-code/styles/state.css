@@ -7,7 +7,7 @@
         display:block;
     }
     li{
-        border-bottom: black solid 2px;
+        border-bottom: grey solid 1px;
     }
 }
 
