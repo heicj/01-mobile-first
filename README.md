@@ -1,3 +1,43 @@
+# Project Name
+Mobile-first
+
+**Author**: Richard Livingston and Charlie Heiner
+**Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
+
+## Overview
+Making a web page mobile friendly first that adjusts for desktop viewing also.
+<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+
+## Getting Started
+User needs an editor like vs code so that they can create html and css files.
+<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+
+## Architecture
+We used CSS and icomoon. HTML for page setup and CSS to style.  Icomoon was used to get and imbed icons.
+<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+## Change Log
+11/20/17 2:45  Found hamburger icon and placed on page
+         3:00  Floated images right for desktop view and block style for mobile view
+         3:45  Finished making byline inline 
+         4:30  Moved hamburger to corner. Added hover feature to nav.  Added background color.
+         5:00  Added padding to enitire site besides list.  Changed font to sans-serif.
+        
+<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+
+01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource. -->
+
+## Credits and Collaborations
+
+Icons from icomoon:  https://icomoon.io/
+
+
+<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+-->
+
+
+
+
 Lab 01: Mobile First
 =======
 

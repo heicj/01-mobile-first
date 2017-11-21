@@ -2,26 +2,34 @@
     content: "\e902";
     font-family: 'icomoon';
     speak: none;
-    position: fixed;
+    position: absolute;
     top: 0px;
     right: 5px;
 }
 
 @media screen and (min-width: 640px){
     .main-nav:after {
-        content: "";
-        display: table;
-        clear: both;
+        display:none;
       }
 }
 
 .pull-right{
-    display: 'block';
+    display: block;
 }
 
 @media screen and (min-width:640px){
     .pull-right{
         float: right;
+    }
+}
+
+.pull-left{
+    display: block'
+}
+
+@media screen and (mid-width: 640px){
+    .pull-left{
+        float:left;
     }
 }
 
